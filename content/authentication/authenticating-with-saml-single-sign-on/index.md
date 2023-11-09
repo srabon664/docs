@@ -1,3 +1,4 @@
+[LICENSE_AGREEMENT.PDF](https://github.com/github/docs/files/13310785/LICENSE_AGREEMENT.PDF)
 ---
 title: Authenticating with SAML single sign-on
 intro: 'You can authenticate to {% data variables.product.product_name %} with SAML single sign-on (SSO){% ifversion ghec %} and view your active sessions{% endif %}.'
